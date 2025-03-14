@@ -1,7 +1,12 @@
 # movie_recommendation_system
-Project Goal:
-
 The project aims to build a content-based movie recommendation system which will suggest movies similar to a movie the user provides as input.
+
+Description:
+The Content-Based Movie Recommendation System is a machine learning-based project designed to suggest movies to users based on the attributes and features of the movies they have shown interest in. Unlike collaborative filtering, which relies on user preferences and behaviors, a content-based system uses the information embedded in the movies themselves, such as genre, director, actors, keywords, and other metadata. By analyzing the content features of movies that a user has liked or rated highly, the system identifies and recommends similar movies. This personalized approach aims to improve user experience by offering suggestions that match their tastes and preferences.
+
+Objective:
+The objective of this project is to develop an efficient content-based movie recommendation system that can predict and suggest movies to users based on their past preferences. The system will leverage movie metadata (such as genres, actors, and plot summaries) to calculate similarities and provide recommendations. Additionally, the project aims to evaluate the effectiveness of the recommendation engine in terms of user satisfaction and recommendation accuracy. Through this, users will be able to discover new movies aligned with their viewing history and preferences.
+
 
 How it Works:
 
